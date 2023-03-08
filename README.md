@@ -4,9 +4,9 @@ You can now download your favourite songs from youtube in mp3 format
 </br>
 Firstly you need to install a python module called "pytube"
 </br>
-But before downloading any songs you need to edit the Path variable (that is the location where you want to store all of your mp3 files) insde the audio.py file
+But before downloading any songs you need to edit the Path variable (that is the location where you want to store all of your mp3 files) inside the audio.py file
 </br>
-If you are running linux you can just copy paste the path whare you want to store all of your mp3 files
+If you are running linux you can just copy paste the path where you want to store all of your mp3 files
 </br>
 But if you are running windows you need to add an extra "\" after every backslash
 </br>
